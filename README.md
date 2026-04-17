@@ -14,7 +14,7 @@ Ten Discord bot został stworzony, aby w przystępny i interaktywny sposób uczy
 
 ## ✨ Ważne Funkcje
 * **Interaktywna Nauka:** Bot serwuje merytoryczny tekst wprowadzający do tematyki zmian klimatu.
-* **Automatyczne Sprzątanie:** Tekst edukacyjny automatycznie znika po **10 minutach**, dbając o porządek na kanale.
+* **Automatyczne Sprzątanie:** Tekst edukacyjny automatycznie znika po **1 minucie**, dbając o porządek na kanale.
 * **Dynamiczny Quiz:** Po lekturze użytkownik podchodzi do testu składającego się z **5 pytań**.
 * **System Punktacji:** Bot zlicza poprawne odpowiedzi i prezentuje wynik końcowy użytkownikowi.
 
