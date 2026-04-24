@@ -22,7 +22,7 @@ Ten Discord bot został stworzony, aby w przystępny i interaktywny sposób uczy
 
 ## 🚀 Działanie projektu
 1. Wywołujesz komendę bota na swoim serwerze: `$quiz`.
-2. Pojawia się tekst edukacyjny – masz **10 minut** na jego przeczytanie.
+2. Pojawia się tekst edukacyjny – masz **1 minutę** na jego przeczytanie.
 3. Po upływie czasu (lub zakończeniu czytania) rozpoczyna się quiz.
 4. Odpowiadasz na pytanie komendą `$check A/B/C/D`.
 5. Na koniec otrzymujesz podsumowanie swoich punktów w skali procentowej!
